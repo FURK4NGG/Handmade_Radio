@@ -12,7 +12,7 @@
 1. `Refer to the circuit diagram`  
 2. `Install and open Arduino IDE`  
 3. `Open the 'radio.ino'`  
-4. `Plug the 'Arduino Leonardo' into your computer`  
+4. `Plug the 'Arduino Uno' into your computer`  
 5. `Select 'Tools>Board>Arduino AVR Boards>Arduino Uno'`
 6. `Tools>Port>'Select the arduino's port'`
 
