@@ -15,11 +15,12 @@
 4. `Plug the 'Arduino Uno' into your computer`  
 5. `Select 'Tools>Board>Arduino AVR Boards>Arduino Uno'`
 6. `Tools>Port>'Select the arduino's port'`
+7. `Click the 'upload ➡️' button`  
+✅ **To make sure it has been uploaded successfully, you should see the message 'Done uploading'**  
 
 
 ## 🎉 Run  
-`Click the 'upload ➡️' button`  
-✅ **To make sure it has been uploaded successfully, you should see the message 'Done uploading'**  
+`You are ready to use`
 
 
 ## 🔒 License  
