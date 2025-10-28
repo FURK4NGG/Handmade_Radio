@@ -8,6 +8,16 @@
 <h1 align="center">The design aims to provide survivors with a critical communications link by monitoring one-way (Simplex) radio transmissions. This functionality is implemented to ensure victims can effectively assess their immediate status and receive vital instructions regarding necessary safety measures and precautions.</h1>  
 
 
+## 🔎 Preparation
+<details>
+<summary>1. Components</summary>
+'1' Arduino Uno<br>
+'1' Radio Module (TEA 5767)<br>
+'1' Potentiometer **to be able to change our frequency**<br>
+'1' Infrared (IR) Sensor **Because minor interferences can affect the potentiometer value, it only serves to change the frequency when we trigger it with our finger**
+</details>
+
+
 ## 📦 Setup 
 1. `Refer to the circuit diagram`
 2. `Install the 'Arduino IDE' software and open 'radio.ino' file`
