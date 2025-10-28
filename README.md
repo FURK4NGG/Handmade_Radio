@@ -13,7 +13,7 @@
 <summary>1. Components</summary>
 '1' Arduino Uno<br>
 '1' Radio Module (TEA 5767)<br>
-'1' Potentiometer **to be able to change our frequency**<br>
+'1' Potentiometer __to be able to change our frequency__<br>
 '1' Infrared (IR) Sensor **Because minor interferences can affect the potentiometer value, it only serves to change the frequency when we trigger it with our finger**
 </details>
 
