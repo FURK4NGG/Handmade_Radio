@@ -1,4 +1,3 @@
-<!-- Proje-Resmi -->
 <!-- Diagram sema -->
 
 ## 👀 Handmade_Radio Overview  
