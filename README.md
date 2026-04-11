@@ -1,5 +1,3 @@
-<!-- Diagram sema -->
-
 ## 👀 Handmade_Radio Overview  
 <h1 align="center">A Handmade Simplex Communication Radio</h1>  
 
