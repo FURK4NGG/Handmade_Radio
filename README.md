@@ -1,7 +1,8 @@
 ## 👀 Handmade_Radio Overview  
 <h1 align="center">A Handmade Simplex Communication Radio</h1>  
 
-![Image](https://github.com/user-attachments/assets/97e7f6ec-6c47-415f-94b5-1cbdb92c8fe7)
+
+![Image](https://github.com/FURK4NGG/Handmade_Radio/blob/main/{}/Handmade_Radio.jpeg)
 
 
 ## 🚀 Features  
