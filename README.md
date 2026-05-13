@@ -1,9 +1,7 @@
 ## 👀 Handmade_Radio Overview  
 <h1 align="center">A Handmade Simplex Communication Radio</h1>  
 
-
 ![Image](https://github.com/FURK4NGG/Handmade_Radio/blob/main/{}/Handmade_Radio.jpeg)
-
 
 ## 🚀 Features  
 <h1 align="center">The design aims to provide survivors with a critical communications link by monitoring one-way (Simplex) radio transmissions. This functionality is implemented to ensure victims can effectively assess their immediate status and receive vital instructions regarding necessary safety measures and precautions.</h1>  
